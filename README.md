@@ -5,14 +5,11 @@
 
 <p>Добро пожаловать на мою страницу! </br> Меня зовут Тимур, я Frontend-разработичк из  🏠 России, Казань. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 В настоящее время я работаю над интернет-магазином
+- 🌱 Учусь в Яндекс.Практикуме и КГЭУ (заочно)
+- 👯 Хочу поработать код-ревьюером
+- 🤔 Пытаюсь познать истину, через React
+- 😄 Гик, но не задрот!
 
 
 <h3>Могу, умею, практикую </h3>
@@ -33,18 +30,6 @@
 <p>
 <img alt='CodeWars' src='https://www.codewars.com/users/Owe7x/badges/large' />
 </p>
-
-### :trophy: Моя статистика:
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Owe7x&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Owe7x&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Owe7x&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owe7x&layout=compact" />
-</a>
-</div>
-
 <div>
 <h3>Как меня найти:</h3>
 <p>
@@ -59,5 +44,17 @@
 </a> 
 </p>
 </div>
+
+<h3>Моя статистика</h3>
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Owe7x&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Owe7x&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Owe7x&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owe7x&layout=compact" />
+</a>
+</div>
+
 
 
